@@ -1,0 +1,55 @@
+body
+    {
+	    background: white;
+    }
+h3
+    {
+    	background-color: red;
+        color: white;
+        height: 25px;
+        width: 80px;
+    }
+hr
+    {
+    	text-align: left;
+       border-color: grey;
+        width: 350px;
+    }
+.test1
+    {
+    	background-color: blue;
+    	height: 50px;
+        width: 300px;
+    }
+.test2
+    {
+    	background-color: yellow;
+    	height: 50px;
+        width: 300px;
+    }
+.box1
+    {
+    	background-color: red;
+    	height: 40px;
+        width: 50px;
+    }
+.box2
+    {
+    	background-color: orange;
+    	height: 40px;
+        width: 100px;
+    }
+.box3
+    {
+    	background-color: blue;
+    	height: 40px;
+        width: 150px;
+    }
+.box4
+    {
+    	background-color: #ff733a;
+    	height: 70px;
+        width: 250px;
+        font-size: 50px;
+        text-align: center;
+    }

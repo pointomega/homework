@@ -1,0 +1,27 @@
+span
+    {
+    	font-style: italic;
+    }
+.eq
+    {
+    	font-style: italic;
+    	font-size: 25px;
+    }
+sup
+    {
+    	color: red;
+    	font-style: normal;
+    }
+sub
+    {
+    	color: blue;
+    	font-style: normal;
+    }
+div
+    {
+    	width: 380px;
+    	height: 100px;
+    	border-style: dashed;
+    	border-width: 2px;
+        padding: 0 0 0 7px; 
+    }

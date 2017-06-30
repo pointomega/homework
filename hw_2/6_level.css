@@ -1,0 +1,20 @@
+.eq
+    {
+    	font-size: 20px;
+    }
+sub
+    {
+    	font-style: italic;
+    }
+sup
+    {
+    	font-style: italic;
+    }
+div
+    {
+    	width: 430px;
+    	height: 90px;
+    	border-style: dashed;
+    	border-width: 2px;
+        padding: 0 0 0 5px; 
+    }
