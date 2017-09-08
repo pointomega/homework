@@ -1,0 +1,59 @@
+.main {
+    font-style: Verdana, sans-serif;
+    width: 100%;
+    font-size: 20px;
+}
+.header {
+    width: 100%;
+    min-height: 50px;
+    background-color: #F77A0C;
+    line-height: 50px;
+    padding: 10px;
+}
+.gridbox {
+    float: left;
+}
+.left-column {
+    margin-top: 20px;
+    width: 29%;
+    margin-right: 4%;
+    padding: 1%;
+}
+.central-column {
+    margin-top: 20px;
+    padding: 1%;
+    width: 29%;
+    margin-right: 4%;
+}
+.right-column {
+    margin-top: 20px;
+    width: 28%;
+    margin-right: 0;
+    padding: 1%;
+}
+img {
+    height: 100px;
+    width: 48%;
+    }
+
+@media only screen and (max-width: 700px) {
+    .left-column {
+        width: 100%;
+    }
+    .central-column {
+        width: 100%;
+        padding: 1%;
+    }
+    .right-column {
+        width: 100%;
+        padding: 1%;
+    }
+    .gridbox {
+        margin-right: 0;
+        float: left;
+    }
+img {
+    padding: 1%;
+    width: 98%;
+    height: auto;
+}
